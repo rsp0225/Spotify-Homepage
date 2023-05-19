@@ -3,7 +3,7 @@ This project is a replica of the Spotify homepage as of 2021, created using HTML
 
 ## Live Site
 
-This project is now hosted on Netlify. You can view the live site at [https://google-homepage-rsp0225.netlify.app/](https://google-homepage-rsp0225.netlify.app/).
+This project is now hosted on Netlify. You can view the live site at [https://spotify-homepage-rsp0225.netlify.app/](https://spotify-homepage-rsp0225.netlify.app/).
 
 ## Approach
 To replicate the Spotify homepage, I first used Google Chrome's Inspect feature to analyze the structure and styles of the original page - Spotify. I then decided to break it down into three main components: 
